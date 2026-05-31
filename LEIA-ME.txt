@@ -1,0 +1,30 @@
+INSTRUÇÕES PARA ENTREGA DA ATIVIDADE ABERTA - UNIDADE 3
+
+O arquivo principal está pronto:
+
+📄 Atividade_Aberta_Unidade3_Locadora_Veiculos.docx
+
+PASSOS RECOMENDADOS:
+
+1. Abra o arquivo .docx no Microsoft Word, LibreOffice Writer ou Google Docs.
+
+2. Substitua o texto "[Seu Nome Completo]" pelo seu nome real.
+
+3. (Opcional, mas recomendado) Revise o texto e faça pequenos ajustes pessoais para deixar com sua "voz".
+
+4. Exporte/Salve como PDF:
+   - Word: Arquivo → Salvar como → PDF
+   - Google Docs: Arquivo → Fazer download → PDF
+   - LibreOffice: Arquivo → Exportar como → PDF
+
+5. Poste o arquivo PDF (ou DOCX, se a plataforma aceitar) no fórum acadêmico.
+
+OBSERVAÇÕES SOBRE O CONTEÚDO:
+- O texto foi escrito em linguagem natural e humanizada, como se um aluno estivesse respondendo.
+- Todos os itens (1a, 1b, 2a, 2b, 3a, 3b) foram abordados de forma detalhada e contextualizada.
+- Exemplos de código foram incluídos com formatação adequada.
+- A taxa de seguro para carros foi exemplificada em R$ 30,00/dia (você pode alterar se preferir outro valor).
+
+Se quiser que eu faça alguma alteração (trocar nome, mudar exemplo de taxa, ajustar algum parágrafo, etc.), é só pedir!
+
+Boa entrega!
